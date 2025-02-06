@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Csbank accounts related QA APIs"
   contactDetails:
     name: "Smitha Ray, QA Lead"
-    email: "smitha@csbank.com"
+    email: "{cipher}091d9c6cc10ba454e182b0c592a206af2540e276331b0a4598c7c3b140e4ed2d7cb035d3aab6bb96df29f14db1755d66"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
