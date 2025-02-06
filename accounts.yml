@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Csbank accounts related local APIs"
   contactDetails:
     name: "John Doe, Developer"
-    email: "john@csbank.com"
+    email: "{cipher}a9a32cde390a9af0df121b626f21c802e7b06fb1f600dffdaee20139f62c7b76"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
