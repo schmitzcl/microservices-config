@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to CSBank loans related docker APIs "
+  message: "Welcome to CSBank loans related local APIs "
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "{cipher}8fc86285e368fa74429f7b4adbc2dab5fc6293b23c9d520ff23c12b823f4a79f00da1f4acb72ce1345126816653a1cd1"
