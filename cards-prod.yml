@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to CSBank cards related docker APIs "
+  message: "Welcome to CSBank cards related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}8b8015e454e6c7f87ce0182d07f7f8d605bd2d20c0235a51e129564f0d2292d627d808746fb3f208b2b7f3a3421b9510"
