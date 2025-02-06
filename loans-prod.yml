@@ -5,7 +5,7 @@ loans:
   message: "Welcome to CSBank loans related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
-    email: "pelias@csbank.com"
+    email: "{cipher}72ebfa24ce7054316a8b779ea0a1f32edcfbbfdf55a6dae3dcbd9776c517e1f218a2ef7a35495c49f12b626eba84147a"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
