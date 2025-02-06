@@ -5,7 +5,7 @@ loans:
   message: "Welcome to CSBank loans related QA APIs "
   contactDetails:
     name: "Cyrano Marita - QA Lead"
-    email: "cyrano@csbank.com"
+    email: "{cipher}5bbd7a1295040dcf354d25d185fdebf3617087144ae4cd49b4b6d1ed1cec7851039991ae713339a3d3c8865c165fbc51"
   onCallSupport:
     - (785) 545-6565
     - (853) 546-3467
